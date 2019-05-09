@@ -1,9 +1,9 @@
-To build and query the ES_example application:
+To build and query the application:
 
 1. Run the elasticsearch server in the background (e.g., double click on
 <elasticsearch home directory> bin\elasticsearch.bat in Windows)
 
-2. run: python index.py (builds an index called simple_film_index)
+2. run: python index.py (builds an index)
 
 3. run: python query.py
 
